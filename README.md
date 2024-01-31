@@ -16,6 +16,8 @@
 会社の電話帳を追加していく処理をPower Automate Desktop（以降はPADと表記）で
 自動化するサンプルです
 
+![ModGoogleContactsImport](https://github.com/yymat/PAD_ModGoogleContactsImport/assets/61073941/f5959f30-f33b-4f5e-adca-a108c4290890)
+
 # 前提
 
 インポートするCSVは作成済みであること。
