@@ -18,17 +18,15 @@
 
 # 前提
 
-インポートするCSVは作成されていること。
+インポートするCSVは作成済みであること。
 
 PAD内のGoogleアカウント、CSVファイルのパスを変更すること。
 
 # 導入方法
 
-新規のフローを作成し、コピーしたソースをフローに貼り付ける（Ctrl＋V）。
+source.zipを解凍して全文をコピーする。
 
-```bash
-pip install huga_package
-```
+新規のフローを作成し、コピーしたソースをフローに貼り付ける（Ctrl＋V）。
 
 # 使い方
 
@@ -37,7 +35,7 @@ pip install huga_package
 
 # 注意点
 
-注意点などがあれば書く
+インポートできる正しいCSVで実行してください。インポート時のエラー処理は未対応です。
 
 # ライセンス
  [MIT license](https://en.wikipedia.org/wiki/MIT_License).
